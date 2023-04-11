@@ -1,0 +1,32 @@
+{
+    "description": "Silver Membership",
+    "image": "https://bafybeiabk7nell7ruajvreovsfreg65nauvrobcil5rejr4yu3fsa2yobq.ipfs.nftstorage.link/memberships/silver.gif",
+    "name": "Silver Membership",
+    "attributes": [
+      {
+        "trait_type": "private_forum_access",
+        "value": true
+      },
+      {
+        "trait_type": "discount_on_all_products",
+        "value": true
+      },
+      {
+        "trait_type": "annual_conference_pass",
+        "value": false
+      },
+      {
+        "trait_type": "club_swags",
+        "value": false
+      },
+      {
+        "trait_type": "personal_chaufer",
+        "value": false
+      },
+      {
+        "trait_type": "free_boat_rides",
+        "value": false
+      }
+    ]
+  }
+  
